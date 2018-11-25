@@ -48,7 +48,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:git@github.com:ipsingh12/sfg-pet-clinic.git</developerConnection>
-        <tag>test</tag>
+        <tag>tnew</tag>
     </scm>
 
 </project>
