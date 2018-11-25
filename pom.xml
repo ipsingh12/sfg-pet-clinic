@@ -47,6 +47,9 @@
             </plugin>
         </plugins>
     </build>
-
+    <scm>
+        <developerConnection>scm:git:git@github.com:ipsingh12/sfg-pet-clinic.git</developerConnection>
+        <tag>sfg-pet-clinic-0.0.2</tag>
+    </scm>
 
 </project>
